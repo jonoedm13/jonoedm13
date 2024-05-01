@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jonoedm13
 - 👀 I’m interested in the Development of AI agents using such tools as the CrewAi framwork or LangChain 
 - 🌱 I’m currently learning about neural networks and LLM's 
-- 💞️ I’m looking to collaborate on my Projects Crypto Companion App Powered by AI and Manu Developed to help Maori poeple navagate the process of filing a land claims in New Zealand
-- there are other projects in the pipeline but will update when near completion 
+- 💞️ I’m looking to collaborate on my Projects Crypto Companion App Powered by AI and Manu Developed to help Maori People Navagate the process of filing a Maori land claim in New Zealand there are other projects in the pipeline but will update when near completion 
 - 📫 How to reach me make a Pull request or email: honeirimana@gmail.com
 - 😄 Pronouns: ...               
 - ⚡ Fun fact: ... Pigs Can Fly  
